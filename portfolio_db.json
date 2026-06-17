@@ -1,0 +1,70 @@
+{
+  "visitorCount": 335,
+  "downloadsCount": 39,
+  "messages": [
+    {
+      "id": "m1",
+      "name": "Jessica Chen",
+      "email": "j.chen@tesla-automations.com",
+      "message": "Hi Muhammad, I came across your Jarvis Voice Assistant repo. Your architecture for system automation is highly impressive. Would you be open to a contract position at Tesla?",
+      "timestamp": "2026-06-14T17:38:08.605Z"
+    },
+    {
+      "id": "m2",
+      "name": "Haris Ahmed",
+      "email": "haris@devcorp.pk",
+      "message": "Excited to see a Developer with high AI competency from Karachi. I'd love to collaborate on a Django-based LLM agent project. Let's schedule a call!",
+      "timestamp": "2026-06-16T10:26:08.605Z"
+    }
+  ],
+  "chatLogs": [
+    {
+      "id": "c1",
+      "session": "sess-99",
+      "query": "What is Mawiya's tagline?",
+      "reply": "Muhammad Mawiya's tagline is: 'If it can be automated, I will automate it.'",
+      "timestamp": "2026-06-15T10:26:08.605Z"
+    },
+    {
+      "id": "c2",
+      "session": "sess-100",
+      "query": "Tell me about his university",
+      "reply": "He is currently pursuing his BS in Artificial Intelligence at the University of Karachi (UBIT), starting from 2025.",
+      "timestamp": "2026-06-17T10:26:08.605Z"
+    }
+  ],
+  "themeStats": {
+    "light": 15,
+    "dark": 129
+  },
+  "trafficAnalytics": [
+    {
+      "date": "Jun 12",
+      "visits": 23
+    },
+    {
+      "date": "Jun 13",
+      "visits": 31
+    },
+    {
+      "date": "Jun 14",
+      "visits": 19
+    },
+    {
+      "date": "Jun 15",
+      "visits": 25
+    },
+    {
+      "date": "Jun 16",
+      "visits": 33
+    },
+    {
+      "date": "Jun 17",
+      "visits": 16
+    },
+    {
+      "date": "Jun 18",
+      "visits": 218
+    }
+  ]
+}

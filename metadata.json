@@ -1,0 +1,6 @@
+{
+  "name": "Muhammad Mawiya Portfolio",
+  "description": "Futuristic 3D portfolio website for Muhammad Mawiya, AI Engineer & Full Stack Python Developer, featuring an AI chatbot assistant, real-time GitHub analytics, and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

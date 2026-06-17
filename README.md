@@ -13,7 +13,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=🤖+AI+%26+Full+Stack+Developer;⚡+Python+%7C+React+%7C+Flask+%7C+ML;🚀+Building+the+Future,+One+Commit+at+a+Time" alt="Typing SVG" />
+
 
 <br/>
 
